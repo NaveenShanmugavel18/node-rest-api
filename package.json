@@ -14,7 +14,7 @@
     "jsonwebtoken": "^8.1.0",
     "mongoose": "^4.13.4",
     "nodemon": "^1.12.1",
-    "restify": "^6.3.2",
+    "restify": "^6.3.4",
     "restify-validator": "^0.3.1"
   }
 }
